@@ -1,3 +1,13 @@
+CHANGES IN VERSION 1.0.3
+-----------------------
+
+BUG FIXES
+
+    o Fixed the memory leak in isBimeraDenovo and friends.
+
+    o Sequence tables are now integer rather than numeric.
+
+
 CHANGES IN VERSION 1.0
 -----------------------
 
